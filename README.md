@@ -1,2 +1,2 @@
 # kaniko-go-faas
-Simple project
+Simple project to test kaniko and openfaas
